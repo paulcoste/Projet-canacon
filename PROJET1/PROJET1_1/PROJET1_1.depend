@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1583001315 source:/Users/paulcoste/Desktop/test22/PROJET1_1/main.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1583153459 source:/Users/paulcoste/Documents/Programation/ESTACA/PROJET/PROJET1/PROJET1_1/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+
