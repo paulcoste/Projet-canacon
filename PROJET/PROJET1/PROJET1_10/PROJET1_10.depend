@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583230599 source:/Users/paulcoste/Desktop/PROJET1_10/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+

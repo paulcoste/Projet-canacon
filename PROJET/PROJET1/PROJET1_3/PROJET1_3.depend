@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583002109 source:/Users/paulcoste/Desktop/test22/PROJET1_3/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

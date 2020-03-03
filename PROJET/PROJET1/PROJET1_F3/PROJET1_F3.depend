@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583243758 source:/Users/paulcoste/Documents/Programation/ESTACA/PROJET/PROJET1/PROJET1_F3/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
